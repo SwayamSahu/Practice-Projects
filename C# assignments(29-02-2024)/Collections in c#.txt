@@ -1,5 +1,5 @@
 Collections
-............
+........
 In C#, collections are objects that can hold and manipulate groups of related objects. Collections provide various data structures and algorithms to store, retrieve, and manipulate data efficiently. The .NET Framework provides several built-in collection classes in the System.Collections and System.Collections.Generic namespaces. Here's an overview of some commonly used collections in C#:
 
 Arrays:
